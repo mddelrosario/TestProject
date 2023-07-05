@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MHbBASORh+ejutVCGhOlACvsb6jDxclxcZbtuG4bnGyvaWyNZ92Cuu/ikFOGIC0DwZo8+9hVV93w2py2EPngOg==",
+  "success": true,
+  "projectFilePath": "C:\\Mike\\Projects\\TextConverter\\TextConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike.del-rosario\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.7\\microsoft.aspnetcore.spaproxy.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

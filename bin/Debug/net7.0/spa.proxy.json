@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44413",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Mike\\Projects\\TextConverter\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
